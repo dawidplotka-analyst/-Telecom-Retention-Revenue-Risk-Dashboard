@@ -44,7 +44,11 @@ End-to-end Power BI project identifying **revenue at risk** using predictive chu
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](link_do_twojego_zdjecia.png)
 
+| Main KPIs & Trends | Customer Profiles |
+| :---: | :---: |
+| ![Dashboard 1](https://drive.google.com/file/d/1KKniFw7Z0sQwDirpLR2rUYEM_Xnz9LDy/view?usp=drive_link) | ![Dashboard 2](https://drive.google.com/file/d/1l6eZCDiFVWQ0Wpbgpdh63XeU_foO2tXc/view?usp=drive_link) |
+| **Risk Segmentation** | **Service Analysis** |
+| ![Dashboard 3](https://drive.google.com/file/d/181McAo7MIrxdMFZy-ZuA3afAb9TIQ0xK/view?usp=drive_link) | ![Dashboard 4](https://drive.google.com/file/d/1FoCQHAzoDNCe8RxANMkxVdkJdBt9jcbn/view?usp=drive_link) |
 ---
 **Author:** [Dawid Płotka](https://github.com/dawidplotka-analyst) – Data Analyst

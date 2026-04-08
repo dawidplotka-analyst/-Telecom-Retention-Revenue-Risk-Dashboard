@@ -47,8 +47,8 @@ End-to-end Power BI project identifying **revenue at risk** using predictive chu
 
 | Main KPIs & Trends | Customer Profiles |
 | :---: | :---: |
-| ![Dashboard 1](https://drive.google.com/file/d/1KKniFw7Z0sQwDirpLR2rUYEM_Xnz9LDy/view?usp=drive_link) | ![Dashboard 2](https://drive.google.com/file/d/1l6eZCDiFVWQ0Wpbgpdh63XeU_foO2tXc/view?usp=drive_link) |
-| **Risk Segmentation** | **Service Analysis** |
-| ![Dashboard 3](https://drive.google.com/file/d/181McAo7MIrxdMFZy-ZuA3afAb9TIQ0xK/view?usp=drive_link) | ![Dashboard 4](https://drive.google.com/file/d/1FoCQHAzoDNCe8RxANMkxVdkJdBt9jcbn/view?usp=drive_link) |
+| <img width="922" height="721" alt="Dasboard Churn 1" src="https://github.com/user-attachments/assets/ee36296e-138f-42d5-bb0e-dfce2f6d7599" />| <img width="892" height="720" alt="Dasboard Churn 2" src="https://github.com/user-attachments/assets/322e7d15-e0ca-4028-b08b-976f9ce5a404" />|
+| **Risk Segmentation** | **Conclusions** |
+| <img width="770" height="721" alt="Dasboard Churn 3" src="https://github.com/user-attachments/assets/df951128-94f9-4ef1-a501-af40e07cb7c6" />|<img width="1272" height="717" alt="Dasboard Churn 4" src="https://github.com/user-attachments/assets/5e54ceb7-9dec-4363-b26d-6526c447d9e6" />|
 ---
 **Author:** [Dawid Płotka](https://github.com/dawidplotka-analyst) – Data Analyst
